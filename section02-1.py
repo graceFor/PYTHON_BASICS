@@ -3,6 +3,7 @@
 
 # 데이터 타입
 
+import math
 v_str1 = "Nick"
 v_bool = True
 v_str2 = "Good"
@@ -39,3 +40,10 @@ print(f3+i1)  # 실수+정수 = 실수 => 자동형변환
 
 result = f3 + i1
 print(result, type(result))
+print(int('2'))
+print(complex(False))  # complex => 복소수
+
+n, m = divmod(100, 8)  # 100 / 8 = 몫: n, 나머지: m
+
+
+print(math.ceil(5.1))  # 5.1보다 큰 정스 중 가장 작은 정수
