@@ -6,7 +6,7 @@
     {
       "label": "Project Label",
       "type": "shell",
-      "command": "python3",
+      "command": "/Users/hyunkyung/Desktop/python_basics/bin/python3",
       "args": ["${file}"],
       "presentation": {
         "reveal": "always",
