@@ -21,3 +21,5 @@ print(e[-1][-2])  # Pen
 # Slicing
 print(d[0:3])  # [10, 100, 'Pen']
 print(e[2][0:2])  # ['Pen', 'Orange]'
+
+# Tuple
