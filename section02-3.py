@@ -23,4 +23,4 @@ print(d[0:3])  # [10, 100, 'Pen']
 print(e[2][0:2])  # ['Pen', 'Orange]'
 
 # Tuple
-# 선언
+# 선언 ()
