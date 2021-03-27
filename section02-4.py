@@ -27,17 +27,16 @@ a['rank1'] = (1, 2, 3)
 print(a)
 
 # keys, values, items
-print(a.keys()) # key 출력
-print(list(a.keys())) # list 형태로 key 출력
+print(a.keys())  # key 출력
+print(list(a.keys()))  # list 형태로 key 출력
 
 temp = list(a.keys())
 print(temp[1:3])
 
-print(a.values()) # value 출력
+print(a.values())  # value 출력
 print(list(a.values()))
 
-print(a.items()) # key,value 쌍으로 출력
+print(a.items())  # key,value 쌍으로 출력
 print(list(a.items()))
 
-
-                        
+#
